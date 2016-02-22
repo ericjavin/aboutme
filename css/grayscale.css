@@ -260,7 +260,7 @@ a:focus {
 .about-section{
     height: 108%;
     list-style-position: inside;
-    background-color: #42dca3;
+    background-color: white;
     background-size: cover;
 }
 
